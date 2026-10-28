@@ -28,6 +28,7 @@ Frontend Development
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
 </p>
 
+
 UI Frameworks & Styling
 <p>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
@@ -36,6 +37,7 @@ UI Frameworks & Styling
   <img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
+
 
 Animation & Interaction
 <p>
@@ -46,6 +48,7 @@ Animation & Interaction
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
 </p>
 
+
 API Integration & State Management
 <p>
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
@@ -54,6 +57,7 @@ API Integration & State Management
   <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=for-the-badge&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
 </p>
+
 
 AI & Product Integrations
 <p>
