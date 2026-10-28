@@ -1,4 +1,4 @@
-<div align="start">
+<div align="left">
 
 Hi, I'm Shahryar Asif 👋
 Frontend Engineer · React & Next.js
