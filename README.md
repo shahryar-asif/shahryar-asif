@@ -1,19 +1,22 @@
 <div align="left">
 
 Hi, I'm Shahryar Asif 👋
-Frontend Engineer · React & Next.js
-Turning designs into responsive interfaces, reusable components, and smooth web experiences.
+Frontend Engineer · UI & Animation · API Integrations · AI-Powered Experiences
+Building polished interfaces that connect thoughtful design, smooth motion, APIs, and AI-powered features.
 
 </div>
 
 👨‍💻 About Me
-I'm a Frontend Engineer, based in Pakistan. I build web applications with React, Next.js, and TypeScript, with a focus on thoughtful UI, maintainable code, and attention to detail.
-- 📍 Based in Pakistan
-- 🎨 Translating Figma designs into responsive, accessible interfaces.
-- 🧩 Building reusable components and consistent UI systems.
-- ✨ Creating scroll interactions and animations with GSAP and Framer Motion.
-- 🔌 Connecting interfaces to REST and GraphQL APIs.
-- ⚡ Improving frontend performance and handling application state.
+I'm a Frontend Engineer at tkxel, based in Pakistan. I build web applications with React, Next.js, and TypeScript, bringing together strong UI, animation, API integrations, and reliable application state.
+
+My work spans translating Figma designs into responsive experiences, connecting interfaces to backend services, and handling authentication, payments, and data-driven workflows. I'm also exploring AI integrations and how to make AI-powered features useful and intuitive within web products.
+- 🎨 Building responsive interfaces and reusable component systems.
+- ✨ Creating smooth animations and scroll interactions with GSAP and Framer Motion.
+- 🔌 Integrating REST and GraphQL APIs, including loading, error, and caching flows.
+- 🔐 Working with authentication, payments, and third-party services.
+- 🤖 Exploring AI API integrations and interfaces for AI-powered products.
+- 📱 Some hands-on experience with React Native and Supabase, and continuing to build on it.
+- ⚡ Focused on performance, accessibility, and maintainable code.
 🚀 Tech Stack & Skills
 Frontend Development
 <p>
@@ -43,7 +46,7 @@ Animation & Interaction
   <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" alt="Swiper" />
 </p>
 
-State Management & API Integration
+API Integration & State Management
 <p>
   <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
@@ -52,27 +55,42 @@ State Management & API Integration
   <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" alt="React Hook Form" />
 </p>
 
+AI & Product Integrations
+<p>
+  <img src="https://img.shields.io/badge/AI_API_Integrations-6D28D9?style=for-the-badge" alt="AI API integrations" />
+  <img src="https://img.shields.io/badge/AI_Powered_Interfaces-0F766E?style=for-the-badge" alt="AI-powered interfaces" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+</p>
+
+Exploring AI integrations alongside experience connecting authentication, payments, and third-party services to web applications.
+Mobile & Backend Platforms
+<p>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" alt="Supabase" />
+</p>
+
+Some hands-on experience with React Native and Supabase; actively building familiarity through practice.
 Tools & Platforms
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
 🎯 What I Enjoy Building
-Product interfaces
-Dashboards, SaaS applications, and reusable component systems that make complex workflows easier to use.
+Polished UI & motion
+Responsive websites, reusable components, and animations that make interactions feel clear and natural.
 
-Websites with motion
-Responsive landing pages with considered transitions, scroll effects, and attention to performance.
+API-connected applications
+Dashboards and SaaS experiences that bring together live data, authentication, payments, forms, and application state.
 
-Connected experiences
-Interfaces that bring together authentication, API data, forms, and application state.
-<div align="center">
-  <b>Thoughtful interfaces. Smooth interactions. Maintainable code.</b>
+AI-powered experiences
+Exploring ways to connect AI services to web interfaces, with attention to user input, response presentation, and clear interaction flows.
+<div align="left">
+  <b>Thoughtful UI. Smooth motion. Connected experiences.</b>
   <br /><br />
   <a href="https://github.com/shahryar-asif?tab=repositories">Explore my repositories →</a>
 </div>
