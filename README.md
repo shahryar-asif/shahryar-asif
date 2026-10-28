@@ -1,4 +1,4 @@
-<div align="center">
+<div align="start">
 
 Hi, I'm Shahryar Asif 👋
 Frontend Engineer · React & Next.js
@@ -7,8 +7,7 @@ Turning designs into responsive interfaces, reusable components, and smooth web 
 </div>
 
 👨‍💻 About Me
-I'm a Frontend Engineer at tkxel, based in Pakistan. I build web applications with React, Next.js, and TypeScript, with a focus on thoughtful UI, maintainable code, and attention to detail.
-- 💼 Currently working at tkxel
+I'm a Frontend Engineer, based in Pakistan. I build web applications with React, Next.js, and TypeScript, with a focus on thoughtful UI, maintainable code, and attention to detail.
 - 📍 Based in Pakistan
 - 🎨 Translating Figma designs into responsive, accessible interfaces.
 - 🧩 Building reusable components and consistent UI systems.
