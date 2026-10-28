@@ -6,7 +6,7 @@ Building polished interfaces that connect thoughtful design, smooth motion, APIs
 
 </div>
 
-<div>##👨‍💻 About Me </div>
+<div>👨‍💻 About Me </div>
 I'm a Frontend Engineer at tkxel, based in Pakistan. I build web applications with React, Next.js, and TypeScript, bringing together strong UI, animation, API integrations, and reliable application state.
 
 My work spans translating Figma designs into responsive experiences, connecting interfaces to backend services, and handling authentication, payments, and data-driven workflows. I'm also exploring AI integrations and how to make AI-powered features useful and intuitive within web products.
